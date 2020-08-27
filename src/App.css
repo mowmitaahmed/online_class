@@ -1,0 +1,23 @@
+/* Css for App.js */
+.full_container{
+  display: flex;
+}
+
+/* Css for course container */
+.course_container{
+  width: 80%;
+
+/* Css for cart container */
+}
+.cart_container{
+  width: 30%;
+  border-left: 1px solid lightgray;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,33 @@
+/* Single Courses */
+.single_course{
+    display: flex;
+    margin-left: 10%;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    margin-top: 30px;
+}
+.single_course img{
+   width: 100%;
+}
+.course_details{
+    margin-left: 30px;
+    margin-bottom: 4%;
+}
+
+/* Button CSS */
+button{
+    font-size: 14px;
+}
+button svg{
+    margin-right: 12px;
+}
+/* .main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+} */
